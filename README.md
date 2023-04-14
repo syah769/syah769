@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter and Laravel**
 
-- 👨‍💻 All of my projects are available at: [https://syah769.github.io/](https://syah769.github.io/)
+- 👨‍💻 All of my projects are available at [https://syah769.github.io/](https://syah769.github.io/)
 
 - 📫 How to reach me: **syahril@bayam.my**
 
