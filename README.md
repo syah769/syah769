@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syah769" alt="syah769" /></a> </p>
 
-- 🔭 I’m currently working as a [Software Engineer at](https://bayam.my/)
+- 🔭 I’m currently working as a Software Engineer at(https://bayam.my/)
 
 - 🌱 I’m currently learning **Flutter and Laravel**
 
