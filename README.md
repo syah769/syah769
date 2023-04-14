@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Syahril Ashraf</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Just a human who has a high passion</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syah769" alt="syah769" /></a> </p>
-
-- 🔭 I’m currently working as a Software Engineer at(https://bayam.my/)
+- 🔭 I’m currently working as a Software Engineer at https://bayam.my/
 
 - 🌱 I’m currently learning **Flutter and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://syah769.github.io/](https://syah769.github.io/)
+- 👨‍💻 All of my projects are available at: [https://syah769.github.io/](https://syah769.github.io/)
 
-- 📫 How to reach me **syahril@bayam.my**
+- 📫 How to reach me: **syahril@bayam.my**
 
-- ⚡ Fun fact **I don't remember what I've coded**
+- ⚡ Fun fact: **I don't remember what I've coded**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
