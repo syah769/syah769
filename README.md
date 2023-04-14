@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Syahril Ashraf</h1>
-<h3 align="center">Just a human who has a high passion</h3>
 
 - 🔭 I’m currently working as a Software Engineer at https://bayam.my/
 
