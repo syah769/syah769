@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://syah769.github.io/](https://syah769.github.io/)
 
-- 📫 How to reach me: **syahril@bayam.my**
+- 📫 How to reach me: **syahrilashraf769@gmail.com**
 
 - ⚡ Fun fact: **I don't remember what I've coded**
 
