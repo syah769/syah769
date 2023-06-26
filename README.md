@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syahril Ashraf</h1>
 
-- 🔭 I’m currently working as a Software Engineer at https://bayam.my/
-
 - 🌱 I’m currently learning **Flutter and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://syah769.github.io/](https://syah769.github.io/)
